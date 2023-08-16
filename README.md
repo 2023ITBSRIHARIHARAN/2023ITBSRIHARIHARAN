@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-2023ITBSRIHARIHARAN/2023ITBSRIHARIHARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2023ITASRIHARIHARAN/2023ITBSRIHARIHARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
